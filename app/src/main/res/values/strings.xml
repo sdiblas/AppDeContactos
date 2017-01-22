@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Sergio Di Blasio</string>
+    <string name="telefono">2914776389</string>
+    <string name="email">sergiodiblasio@hotmail.com</string>
+    //variables globales para parametros de contactos
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
